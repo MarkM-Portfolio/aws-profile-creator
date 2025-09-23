@@ -1,0 +1,980 @@
+[sapphire-payer]
+region = eu-west-2
+aws_access_key_id = AKIAQS4SOMV7RYX5VY77
+aws_secret_access_key = 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
+mfa_serial = arn:aws:iam::040572446079:mfa/SapphireAWS
+
+[wspaustralia]
+role_arn = arn:aws:iam::946216288663:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[hounslow-richmond]
+role_arn = arn:aws:iam::936894452880:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[odgers-berndtson]
+role_arn = arn:aws:iam::836854449622:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[betfair-ltd]
+role_arn = arn:aws:iam::790537731085:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[scoutassociation]
+role_arn = arn:aws:iam::790250734681:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[summit-exploration]
+role_arn = arn:aws:iam::874962864349:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapfinance]
+role_arn = arn:aws:iam::842795750939:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[ddlondon]
+role_arn = arn:aws:iam::934817872543:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[langham]
+role_arn = arn:aws:iam::806588349680:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[royal-college]
+role_arn = arn:aws:iam::937681236771:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[tristan]
+role_arn = arn:aws:iam::809086936343:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[choare]
+role_arn = arn:aws:iam::796708898225:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[maysta]
+role_arn = arn:aws:iam::943380615265:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[childrensalon]
+role_arn = arn:aws:iam::938209307924:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapphire-ohio]
+role_arn = arn:aws:iam::883225223399:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[foresters]
+role_arn = arn:aws:iam::817072643255:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[mslogistics]
+role_arn = arn:aws:iam::790140643725:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sirius]
+role_arn = arn:aws:iam::813769985121:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[bdo]
+role_arn = arn:aws:iam::879366685318:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[megger]
+role_arn = arn:aws:iam::928261380503:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[shamaran]
+role_arn = arn:aws:iam::877408395890:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[seafish]
+role_arn = arn:aws:iam::646973270511:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[ocean-partners]
+role_arn = arn:aws:iam::674031969143:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[kirkby-tyres]
+role_arn = arn:aws:iam::708136847608:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[mepc]
+role_arn = arn:aws:iam::766772365925:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[usborne]
+role_arn = arn:aws:iam::717928221529:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[amber]
+role_arn = arn:aws:iam::647657267831:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[summit-hotel]
+role_arn = arn:aws:iam::774050295613:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[mdeservices]
+role_arn = arn:aws:iam::748002803257:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[safeguard]
+role_arn = arn:aws:iam::721693754581:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[puresearch]
+role_arn = arn:aws:iam::743864264236:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[dacs]
+role_arn = arn:aws:iam::748479260962:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[hines]
+role_arn = arn:aws:iam::628839650351:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[microformat]
+role_arn = arn:aws:iam::743582876094:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[floodre]
+role_arn = arn:aws:iam::789493521270:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aubin]
+role_arn = arn:aws:iam::698149422520:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[citizens-advice]
+role_arn = arn:aws:iam::766316459907:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[bordbia]
+role_arn = arn:aws:iam::780292083465:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[union-maritime]
+role_arn = arn:aws:iam::782989141828:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[afm]
+role_arn = arn:aws:iam::777144841540:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[serica]
+role_arn = arn:aws:iam::750094456937:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[betclic]
+role_arn = arn:aws:iam::598319969205:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[spafax]
+role_arn = arn:aws:iam::542491155249:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[reservoir]
+role_arn = arn:aws:iam::537663928639:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[tfg-brands]
+role_arn = arn:aws:iam::415801384368:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[dyehard]
+role_arn = arn:aws:iam::530323417941:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[savills]
+role_arn = arn:aws:iam::458306359400:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[riverside]
+role_arn = arn:aws:iam::550366850080:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[bkuk]
+role_arn = arn:aws:iam::418282511922:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aeroservices]
+role_arn = arn:aws:iam::457347208717:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[colliers]
+role_arn = arn:aws:iam::469165539181:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[stevenage]
+role_arn = arn:aws:iam::608076283963:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[hib]
+role_arn = arn:aws:iam::421991730482:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[falcon]
+role_arn = arn:aws:iam::549483675440:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[argentisconsulting]
+role_arn = arn:aws:iam::444413628818:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapphire-eam]
+role_arn = arn:aws:iam::411141351445:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[capita]
+role_arn = arn:aws:iam::606480439165:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[networkingpeople]
+role_arn = arn:aws:iam::621242720394:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[marke-creative]
+role_arn = arn:aws:iam::412071183824:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[rkstratmanohio]
+role_arn = arn:aws:iam::412020342383:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[rk-stratman]
+role_arn = arn:aws:iam::562917334156:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[south-western]
+role_arn = arn:aws:iam::369633690244:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[s4c]
+role_arn = arn:aws:iam::378215654842:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[centamin]
+role_arn = arn:aws:iam::337555012337:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[mars]
+role_arn = arn:aws:iam::329653640179:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[jac-travel]
+role_arn = arn:aws:iam::324451962486:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[ramblers]
+role_arn = arn:aws:iam::344710897815:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[mitsui]
+role_arn = arn:aws:iam::337501172124:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[morrisangel]
+role_arn = arn:aws:iam::304369218309:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[asmith]
+role_arn = arn:aws:iam::367510441862:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[harveythompson]
+role_arn = arn:aws:iam::367153557180:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[gshindia]
+role_arn = arn:aws:iam::308535209591:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[kinetic]
+role_arn = arn:aws:iam::373641993861:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[perident]
+role_arn = arn:aws:iam::399802496560:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[brentfordfc]
+role_arn = arn:aws:iam::373458728156:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[numis]
+role_arn = arn:aws:iam::349517352205:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[globalwebindex]
+role_arn = arn:aws:iam::330344468084:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[eco-sustainable]
+role_arn = arn:aws:iam::308544830442:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sun-multi]
+role_arn = arn:aws:iam::331421447233:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aquahydrate]
+role_arn = arn:aws:iam::312226970479:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[cafe-direct]
+role_arn = arn:aws:iam::389217581374:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[dyeharduat]
+role_arn = arn:aws:iam::213070356026:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[centtrip]
+role_arn = arn:aws:iam::170260899620:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[lumos]
+role_arn = arn:aws:iam::054444721211:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[rug-company]
+role_arn = arn:aws:iam::193808344899:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapdev]
+role_arn = arn:aws:iam::121677519751:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[salus-london]
+role_arn = arn:aws:iam::277808248430:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[wendy-wu]
+role_arn = arn:aws:iam::022843720144:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[nephila]
+role_arn = arn:aws:iam::113623786704:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[salus-ohio]
+role_arn = arn:aws:iam::187612301768:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[petmate]
+role_arn = arn:aws:iam::103168223905:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[lidco]
+role_arn = arn:aws:iam::217415864548:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[seikobeyond]
+role_arn = arn:aws:iam::276612882802:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[eaglemoss]
+role_arn = arn:aws:iam::090402447788:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[cpi-mortars]
+role_arn = arn:aws:iam::217389137627:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[wsurban]
+role_arn = arn:aws:iam::047459166365:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[want2bthere]
+role_arn = arn:aws:iam::021102460088:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapphire-sales]
+role_arn = arn:aws:iam::057820410219:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[ednf]
+role_arn = arn:aws:iam::188068849053:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[concentra]
+role_arn = arn:aws:iam::178255809597:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[paxwax]
+role_arn = arn:aws:iam::098368372066:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[seikogen1]
+role_arn = arn:aws:iam::432927901268:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[lighterlife]
+role_arn = arn:aws:iam::130000332572:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aft-acct]
+role_arn = arn:aws:iam::093887375120:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[logarchive]
+role_arn = arn:aws:iam::856956497920:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[audit]
+role_arn = arn:aws:iam::770894895139:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aft-mgmt]
+role_arn = arn:aws:iam::231639157514:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[hullblyth]
+role_arn = arn:aws:iam::916165997884:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[shl]
+role_arn = arn:aws:iam::161602823002:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[veridium]
+role_arn = arn:aws:iam::954526375886:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[huntsman]
+role_arn = arn:aws:iam::139983784743:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[shared-services]
+role_arn = arn:aws:iam::812224207958:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[lumondiuk]
+role_arn = arn:aws:iam::630344429828:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[hpkindustries]
+role_arn = arn:aws:iam::147605529403:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[biocentriq]
+role_arn = arn:aws:iam::918411168655:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[eddiebaueruk]
+role_arn = arn:aws:iam::312973714256:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aiagroup]
+role_arn = arn:aws:iam::171328581101:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[aia]
+role_arn = arn:aws:iam::321184529969:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[massachusetts]
+role_arn = arn:aws:iam::884570065905:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[edbuk]
+role_arn = arn:aws:iam::227424001457:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[plastpro]
+role_arn = arn:aws:iam::453749592001:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[ymca]
+role_arn = arn:aws:iam::285689612494:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[cls]
+role_arn = arn:aws:iam::050653661110:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[mediaiq]
+role_arn = arn:aws:iam::743506205776:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sumitomo]
+role_arn = arn:aws:iam::994300150783:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[msi-beyond]
+role_arn = arn:aws:iam::366200789051:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[rebstorage]
+role_arn = arn:aws:iam::957844009077:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[texthelp]
+role_arn = arn:aws:iam::988362871348:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[msi-migrated]
+role_arn = arn:aws:iam::114693592154:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[veridium-usa]
+role_arn = arn:aws:iam::458046590586:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[mediasourceinc]
+role_arn = arn:aws:iam::125581076990:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[sapphire costcontrol]
+role_arn = arn:aws:iam::497114473373:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[amnesty]
+role_arn = arn:aws:iam::902845115230:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapphiresales]
+role_arn = arn:aws:iam::221258319518:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[otsuka prod]
+role_arn = arn:aws:iam::646982107514:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapcostctrl]
+role_arn = arn:aws:iam::024454674998:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[sapphireustest]
+role_arn = arn:aws:iam::726367670369:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[bridgemanart]
+role_arn = arn:aws:iam::457939608778:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[cloudfm]
+role_arn = arn:aws:iam::309546977144:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[cloudfmnew]
+role_arn = arn:aws:iam::939395348719:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[dev-automation]
+role_arn = arn:aws:iam::264309510997:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[evolito]
+role_arn = arn:aws:iam::298703116830:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[boden]
+role_arn = arn:aws:iam::457530258428:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[master-sapphire-account]
+role_arn = arn:aws:iam::274894176448:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[management account]
+role_arn = arn:aws:iam::593147995557:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[networking]
+role_arn = arn:aws:iam::435629205066:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[ndcs]
+role_arn = arn:aws:iam::275453154042:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[contamac]
+role_arn = arn:aws:iam::398770529436:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[intercarabao]
+role_arn = arn:aws:iam::477903390412:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[suzuki]
+role_arn = arn:aws:iam::413894548802:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[njbio]
+role_arn = arn:aws:iam::079420342680:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[kandm]
+role_arn = arn:aws:iam::619429821605:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[formaplex]
+role_arn = arn:aws:iam::666384725620:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aws-fttechnology]
+role_arn = arn:aws:iam::156731607081:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[burgerkingbeyond]
+role_arn = arn:aws:iam::156180565493:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[huntsmanbs]
+role_arn = arn:aws:iam::350857431802:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[urct]
+role_arn = arn:aws:iam::433407817111:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[psekinsale]
+role_arn = arn:aws:iam::564630830166:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[warehouserack]
+role_arn = arn:aws:iam::061262271534:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[aws-formaplex1]
+role_arn = arn:aws:iam::783130364621:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[alrayanbank]
+role_arn = arn:aws:iam::514832112577:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[orthosol]
+role_arn = arn:aws:iam::539821222608:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[betclic1]
+role_arn = arn:aws:iam::065496700178:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[lissongallery]
+role_arn = arn:aws:iam::046435401073:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[frankecoffee]
+role_arn = arn:aws:iam::264979044863:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[ironsides]
+role_arn = arn:aws:iam::155078108009:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[netbit]
+role_arn = arn:aws:iam::390144410403:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[harleydavidson]
+role_arn = arn:aws:iam::381492295340:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[gulfkeystone]
+role_arn = arn:aws:iam::471112870587:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[labtech]
+role_arn = arn:aws:iam::527087857743:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[kalibrate]
+role_arn = arn:aws:iam::578844524411:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[eastlandfoodcorp]
+role_arn = arn:aws:iam::755318282112:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[hayfin]
+role_arn = arn:aws:iam::730335582973:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[mannakadarbeauty]
+role_arn = arn:aws:iam::767397699022:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[intofilm]
+role_arn = arn:aws:iam::720226606241:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[omegarepair]
+role_arn = arn:aws:iam::905418015794:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[sapintfinance]
+role_arn = arn:aws:iam::905418116970:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[financeit]
+role_arn = arn:aws:iam::905418122674:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[dbs]
+role_arn = arn:aws:iam::961643161438:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[gratnells]
+role_arn = arn:aws:iam::972802430877:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[casakevin]
+role_arn = arn:aws:iam::724772060220:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[ansible]
+role_arn = arn:aws:iam::886436937679:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[marex]
+role_arn = arn:aws:iam::140023362691:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[mcml]
+role_arn = arn:aws:iam::235494795846:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[blenheimuw]
+role_arn = arn:aws:iam::195275661600:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[tridon]
+role_arn = arn:aws:iam::140023379427:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[it-support-dev]
+role_arn = arn:aws:iam::533267341934:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[patheproductions]
+role_arn = arn:aws:iam::481665105041:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[bogopa]
+role_arn = arn:aws:iam::886436948765:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[coffeeholding]
+role_arn = arn:aws:iam::897722662130:role/OrganizationAccountAccessRole
+region = us-east-2
+source_profile = sapphire-payer
+
+[safeguardpay]
+role_arn = arn:aws:iam::688567271653:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[tristancapital]
+role_arn = arn:aws:iam::897729110805:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[s4cptg]
+role_arn = arn:aws:iam::774305603403:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[synthomer-networking]
+role_arn = arn:aws:iam::971422709368:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer
+
+[synthomer]
+role_arn = arn:aws:iam::476114110700:role/OrganizationAccountAccessRole
+region = eu-west-2
+source_profile = sapphire-payer

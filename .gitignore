@@ -1,0 +1,14 @@
+*.log
+.DS_Store
+.git
+.idea
+.terraform
+.venv
+.vscode
+__pycache__
+lambda-layer/**/.terraform
+lambda-layer/**/terraform
+lambda-layer/bin/.terraform
+lambda-layer/bin/terraform
+node_modules
+terraform

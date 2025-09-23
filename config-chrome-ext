@@ -1,0 +1,979 @@
+[wspaustralia]
+role_arn = arn:aws:iam::946216288663:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = a47a64
+
+[hounslow-richmond]
+role_arn = arn:aws:iam::936894452880:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 7d0121
+
+[odgers-berndtson]
+role_arn = arn:aws:iam::836854449622:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 88e0de
+
+[betfair-ltd]
+role_arn = arn:aws:iam::790537731085:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = eb6ad4
+
+[scoutassociation]
+role_arn = arn:aws:iam::790250734681:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e4e492
+
+[summit-exploration]
+role_arn = arn:aws:iam::874962864349:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 4ec18e
+
+[sapfinance]
+role_arn = arn:aws:iam::842795750939:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = aa297e
+
+[ddlondon]
+role_arn = arn:aws:iam::934817872543:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = ea753d
+
+[langham]
+role_arn = arn:aws:iam::806588349680:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = d62e43
+
+[royal-college]
+role_arn = arn:aws:iam::937681236771:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 7c42f8
+
+[tristan]
+role_arn = arn:aws:iam::809086936343:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = dbffb8
+
+[choare]
+role_arn = arn:aws:iam::796708898225:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 6dcef0
+
+[maysta]
+role_arn = arn:aws:iam::943380615265:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = a5193e
+
+[childrensalon]
+role_arn = arn:aws:iam::938209307924:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = b9704e
+
+[sapphire-ohio]
+role_arn = arn:aws:iam::883225223399:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 7fa173
+
+[foresters]
+role_arn = arn:aws:iam::817072643255:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = fdd6ef
+
+[mslogistics]
+role_arn = arn:aws:iam::790140643725:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e22578
+
+[sirius]
+role_arn = arn:aws:iam::813769985121:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8cc48b
+
+[bdo]
+role_arn = arn:aws:iam::879366685318:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 35e850
+
+[megger]
+role_arn = arn:aws:iam::928261380503:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 0368f1
+
+[shamaran]
+role_arn = arn:aws:iam::877408395890:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = c446e9
+
+[seafish]
+role_arn = arn:aws:iam::646973270511:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 83aae5
+
+[ocean-partners]
+role_arn = arn:aws:iam::674031969143:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 79ad4a
+
+[kirkby-tyres]
+role_arn = arn:aws:iam::708136847608:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 3808e9
+
+[mepc]
+role_arn = arn:aws:iam::766772365925:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 7c01a7
+
+[usborne]
+role_arn = arn:aws:iam::717928221529:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 6be26a
+
+[amber]
+role_arn = arn:aws:iam::647657267831:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f855cf
+
+[summit-hotel]
+role_arn = arn:aws:iam::774050295613:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 00b28d
+
+[mdeservices]
+role_arn = arn:aws:iam::748002803257:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e51488
+
+[safeguard]
+role_arn = arn:aws:iam::721693754581:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = ed77a1
+
+[puresearch]
+role_arn = arn:aws:iam::743864264236:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 2a6482
+
+[dacs]
+role_arn = arn:aws:iam::748479260962:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 137ad6
+
+[hines]
+role_arn = arn:aws:iam::628839650351:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 41cab5
+
+[microformat]
+role_arn = arn:aws:iam::743582876094:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 910e7c
+
+[floodre]
+role_arn = arn:aws:iam::789493521270:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 1e2607
+
+[aubin]
+role_arn = arn:aws:iam::698149422520:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = bda7c6
+
+[citizens-advice]
+role_arn = arn:aws:iam::766316459907:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 4c0800
+
+[bordbia]
+role_arn = arn:aws:iam::780292083465:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 86ee3b
+
+[union-maritime]
+role_arn = arn:aws:iam::782989141828:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = a0d872
+
+[afm]
+role_arn = arn:aws:iam::777144841540:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 1e80c9
+
+[serica]
+role_arn = arn:aws:iam::750094456937:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8f0a19
+
+[betclic]
+role_arn = arn:aws:iam::598319969205:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 457752
+
+[spafax]
+role_arn = arn:aws:iam::542491155249:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 67dec5
+
+[reservoir]
+role_arn = arn:aws:iam::537663928639:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 1af62a
+
+[tfg-brands]
+role_arn = arn:aws:iam::415801384368:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e77768
+
+[dyehard]
+role_arn = arn:aws:iam::530323417941:role/OrganizationAccountAccessRole
+region = None
+color = 29e062
+
+[dyehard]
+role_arn = arn:aws:iam::530323417941:role/OrganizationAccountAccessRole
+region = us-east-2
+color = cc7688
+
+[savills]
+role_arn = arn:aws:iam::458306359400:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8bac0e
+
+[riverside]
+role_arn = arn:aws:iam::550366850080:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = eef97e
+
+[bkuk]
+role_arn = arn:aws:iam::418282511922:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 07bc88
+
+[aeroservices]
+role_arn = arn:aws:iam::457347208717:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8b5db2
+
+[colliers]
+role_arn = arn:aws:iam::469165539181:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = b6ac0b
+
+[stevenage]
+role_arn = arn:aws:iam::608076283963:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 0bfb19
+
+[hib]
+role_arn = arn:aws:iam::421991730482:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8e1009
+
+[falcon]
+role_arn = arn:aws:iam::549483675440:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f6bf24
+
+[argentisconsulting]
+role_arn = arn:aws:iam::444413628818:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = d4dda6
+
+[sapphire_eam_demo]
+role_arn = arn:aws:iam::411141351445:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 989676
+
+[capita]
+role_arn = arn:aws:iam::606480439165:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = bffb94
+
+[networkingpeople]
+role_arn = arn:aws:iam::621242720394:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 06897a
+
+[marke-creative]
+role_arn = arn:aws:iam::412071183824:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 2cb15f
+
+[rkstratmanohio]
+role_arn = arn:aws:iam::412020342383:role/OrganizationAccountAccessRole
+region = us-east-2
+color = c94827
+
+[rk-stratman]
+role_arn = arn:aws:iam::562917334156:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = c21bbe
+
+[south-western]
+role_arn = arn:aws:iam::369633690244:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 4d94a7
+
+[s4c]
+role_arn = arn:aws:iam::378215654842:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = c5f81c
+
+[centamin]
+role_arn = arn:aws:iam::337555012337:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 59b507
+
+[mars]
+role_arn = arn:aws:iam::329653640179:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 32ea16
+
+[jac-travel]
+role_arn = arn:aws:iam::324451962486:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 3185b2
+
+[ramblers]
+role_arn = arn:aws:iam::344710897815:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 74145a
+
+[mitsui]
+role_arn = arn:aws:iam::337501172124:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 150285
+
+[morrisangel]
+role_arn = arn:aws:iam::304369218309:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 9d4989
+
+[asmith]
+role_arn = arn:aws:iam::367510441862:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 5de999
+
+[harveythompson]
+role_arn = arn:aws:iam::367153557180:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 0e504e
+
+[gshindia]
+role_arn = arn:aws:iam::308535209591:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 7d208c
+
+[kinetic]
+role_arn = arn:aws:iam::373641993861:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8637b6
+
+[perident]
+role_arn = arn:aws:iam::399802496560:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 00bcb9
+
+[brentfordfc]
+role_arn = arn:aws:iam::373458728156:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 2468a0
+
+[numis]
+role_arn = arn:aws:iam::349517352205:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 5ef5bf
+
+[globalwebindex]
+role_arn = arn:aws:iam::330344468084:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 57d9b7
+
+[eco-sustainable]
+role_arn = arn:aws:iam::308544830442:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 0a7b8f
+
+[sun-multi]
+role_arn = arn:aws:iam::331421447233:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = d88e40
+
+[aquahydrate]
+role_arn = arn:aws:iam::312226970479:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = d71b7e
+
+[cafe-direct]
+role_arn = arn:aws:iam::389217581374:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e6a973
+
+[dyeharduat]
+role_arn = arn:aws:iam::213070356026:role/OrganizationAccountAccessRole
+region = us-east-2
+color = b2915a
+
+[centtrip]
+role_arn = arn:aws:iam::170260899620:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 15962c
+
+[lumos]
+role_arn = arn:aws:iam::054444721211:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 6c5ae2
+
+[rug-company]
+role_arn = arn:aws:iam::193808344899:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 91af54
+
+[sapdev]
+role_arn = arn:aws:iam::121677519751:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = bb76cb
+
+[salus-london]
+role_arn = arn:aws:iam::277808248430:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e713a1
+
+[wendy-wu]
+role_arn = arn:aws:iam::022843720144:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 6902c4
+
+[nephila]
+role_arn = arn:aws:iam::113623786704:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 1a536d
+
+[salus-ohio]
+role_arn = arn:aws:iam::187612301768:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 375ce4
+
+[petmate]
+role_arn = arn:aws:iam::103168223905:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = fc5cfb
+
+[lidco]
+role_arn = arn:aws:iam::217415864548:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 191ebb
+
+[seikobeyond]
+role_arn = arn:aws:iam::276612882802:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8429c0
+
+[eaglemoss]
+role_arn = arn:aws:iam::090402447788:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 53d223
+
+[cpi-mortars]
+role_arn = arn:aws:iam::217389137627:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = c4b406
+
+[wsurban]
+role_arn = arn:aws:iam::047459166365:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 11188d
+
+[want2bthere]
+role_arn = arn:aws:iam::021102460088:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = ce475b
+
+[sapphire-sales]
+role_arn = arn:aws:iam::057820410219:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 578a22
+
+[ednf]
+role_arn = arn:aws:iam::188068849053:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = c61aaa
+
+[concentra]
+role_arn = arn:aws:iam::178255809597:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 59d1eb
+
+[paxwax]
+role_arn = arn:aws:iam::098368372066:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 1b8064
+
+[seikogen1]
+role_arn = arn:aws:iam::432927901268:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 447259
+
+[lighterlife]
+role_arn = arn:aws:iam::130000332572:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e464c4
+
+[aft-acct]
+role_arn = arn:aws:iam::093887375120:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 0be12d
+
+[logarchive]
+role_arn = arn:aws:iam::856956497920:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 1efa2c
+
+[audit]
+role_arn = arn:aws:iam::770894895139:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f226aa
+
+[aft-mgmt]
+role_arn = arn:aws:iam::231639157514:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f6c2b0
+
+[hullblyth]
+role_arn = arn:aws:iam::916165997884:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = cfa77a
+
+[shl]
+role_arn = arn:aws:iam::161602823002:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 91e286
+
+[veridium]
+role_arn = arn:aws:iam::954526375886:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 6ddcfd
+
+[huntsman]
+role_arn = arn:aws:iam::139983784743:role/OrganizationAccountAccessRole
+region = us-east-2
+color = bcb8dd
+
+[shared-services]
+role_arn = arn:aws:iam::812224207958:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = b208ca
+
+[lumondiuk]
+role_arn = arn:aws:iam::630344429828:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = cc6112
+
+[hpkindustries]
+role_arn = arn:aws:iam::147605529403:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 67be79
+
+[biocentriq]
+role_arn = arn:aws:iam::918411168655:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = cc13d2
+
+[eddiebaueruk]
+role_arn = arn:aws:iam::312973714256:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f67d8b
+
+[aiagroup]
+role_arn = arn:aws:iam::171328581101:role/OrganizationAccountAccessRole
+region = us-east-2
+color = a9be47
+
+[aia]
+role_arn = arn:aws:iam::321184529969:role/OrganizationAccountAccessRole
+region = us-east-2
+color = c44f06
+
+[massachusetts]
+role_arn = arn:aws:iam::884570065905:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 99f74c
+
+[edbuk]
+role_arn = arn:aws:iam::227424001457:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 1a63b9
+
+[plastpro]
+role_arn = arn:aws:iam::453749592001:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = cfdd44
+
+[ymca]
+role_arn = arn:aws:iam::285689612494:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 14311b
+
+[cls]
+role_arn = arn:aws:iam::050653661110:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f6ab27
+
+[mediaiq]
+role_arn = arn:aws:iam::743506205776:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 6bfed8
+
+[sumitomo]
+role_arn = arn:aws:iam::994300150783:role/OrganizationAccountAccessRole
+region = us-east-2
+color = e52cbf
+
+[msi-beyond]
+role_arn = arn:aws:iam::366200789051:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = c4f749
+
+[rebstorage]
+role_arn = arn:aws:iam::957844009077:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 0d12ee
+
+[texthelp]
+role_arn = arn:aws:iam::988362871348:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f21e10
+
+[msi-migrated]
+role_arn = arn:aws:iam::114693592154:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = fe3c6f
+
+[veridium-usa]
+role_arn = arn:aws:iam::458046590586:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 98d111
+
+[mediasourceinc]
+role_arn = arn:aws:iam::125581076990:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 3aa1fd
+
+[sapphire costcontrol]
+role_arn = arn:aws:iam::497114473373:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = d13b66
+
+[amnesty]
+role_arn = arn:aws:iam::902845115230:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 103e99
+
+[sapphiresales]
+role_arn = arn:aws:iam::221258319518:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 30cf97
+
+[otsuka prod]
+role_arn = arn:aws:iam::646982107514:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = fc64f3
+
+[sapcostctrl]
+role_arn = arn:aws:iam::024454674998:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = db8706
+
+[sapphireustest]
+role_arn = arn:aws:iam::726367670369:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 8653e0
+
+[bridgemanart]
+role_arn = arn:aws:iam::457939608778:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 68348c
+
+[cloudfm]
+role_arn = arn:aws:iam::309546977144:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = bb3ce7
+
+[cloudfmnew]
+role_arn = arn:aws:iam::939395348719:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 29241a
+
+[dev-automation]
+role_arn = arn:aws:iam::264309510997:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = eb656f
+
+[evolito]
+role_arn = arn:aws:iam::298703116830:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = b83e9a
+
+[boden]
+role_arn = arn:aws:iam::457530258428:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 32bea0
+
+[master sapphire account]
+role_arn = arn:aws:iam::274894176448:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 0487aa
+
+[management account]
+role_arn = arn:aws:iam::593147995557:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 708d57
+
+[networking]
+role_arn = arn:aws:iam::435629205066:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 3324c4
+
+[ndcs]
+role_arn = arn:aws:iam::275453154042:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = fb206c
+
+[contamac]
+role_arn = arn:aws:iam::398770529436:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = a1583b
+
+[intercarabao]
+role_arn = arn:aws:iam::477903390412:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 26659b
+
+[suzuki]
+role_arn = arn:aws:iam::413894548802:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 4d79b8
+
+[njbio]
+role_arn = arn:aws:iam::079420342680:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = ca1530
+
+[kandm]
+role_arn = arn:aws:iam::619429821605:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 2ab325
+
+[formaplex]
+role_arn = arn:aws:iam::666384725620:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = fdabce
+
+[aws-fttechnology]
+role_arn = arn:aws:iam::156731607081:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = e576a5
+
+[burgerkingbeyond]
+role_arn = arn:aws:iam::156180565493:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 40008c
+
+[huntsmanbs]
+role_arn = arn:aws:iam::350857431802:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 07c661
+
+[urct]
+role_arn = arn:aws:iam::433407817111:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 2111a6
+
+[psekinsale]
+role_arn = arn:aws:iam::564630830166:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f132c8
+
+[warehouserack]
+role_arn = arn:aws:iam::061262271534:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = dc6a50
+
+[aws-formaplex1]
+role_arn = arn:aws:iam::783130364621:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 726257
+
+[alrayanbank]
+role_arn = arn:aws:iam::514832112577:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 152824
+
+[orthosol]
+role_arn = arn:aws:iam::539821222608:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 36076d
+
+[betclic1]
+role_arn = arn:aws:iam::065496700178:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = a67131
+
+[lissongallery]
+role_arn = arn:aws:iam::046435401073:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 3bee91
+
+[frankecoffee]
+role_arn = arn:aws:iam::264979044863:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 3c8f76
+
+[ironsides]
+role_arn = arn:aws:iam::155078108009:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 63a210
+
+[netbit]
+role_arn = arn:aws:iam::390144410403:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 4b6ca4
+
+[harleydavidson]
+role_arn = arn:aws:iam::381492295340:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 780081
+
+[gulfkeystone]
+role_arn = arn:aws:iam::471112870587:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 5bcc34
+
+[labtech]
+role_arn = arn:aws:iam::527087857743:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 91a8d4
+
+[kalibrate]
+role_arn = arn:aws:iam::578844524411:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = b90771
+
+[eastlandfoodcorp]
+role_arn = arn:aws:iam::755318282112:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 0f0051
+
+[hayfin]
+role_arn = arn:aws:iam::730335582973:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 313fa1
+
+[mannakadarbeauty]
+role_arn = arn:aws:iam::767397699022:role/OrganizationAccountAccessRole
+region = us-east-2
+color = d0b47e
+
+[intofilm]
+role_arn = arn:aws:iam::720226606241:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = b8f807
+
+[omegarepair]
+role_arn = arn:aws:iam::905418015794:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 5b1d39
+
+[sapintfinance]
+role_arn = arn:aws:iam::905418116970:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 2b8803
+
+[financeit]
+role_arn = arn:aws:iam::905418122674:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = ccf40a
+
+[dbs]
+role_arn = arn:aws:iam::961643161438:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = bf6353
+
+[gratnells]
+role_arn = arn:aws:iam::972802430877:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = cfeefe
+
+[blenheimuw]
+role_arn = arn:aws:iam::195275661600:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 8fef93
+
+[marex]
+role_arn = arn:aws:iam::140023362691:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 092634
+
+[tridon]
+role_arn = arn:aws:iam::140023379427:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = b9799e
+
+[mcml]
+role_arn = arn:aws:iam::235494795846:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = f0f5e2
+
+[it-support-dev]
+role_arn = arn:aws:iam::533267341934:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = de8f2d
+
+[patheproductions]
+role_arn = arn:aws:iam::481665105041:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 293c46
+
+[casakevin]
+role_arn = arn:aws:iam::724772060220:role/OrganizationAccountAccessRole
+region = us-east-2
+color = aaccbe
+
+[bogopa]
+role_arn = arn:aws:iam::886436948765:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 9e0365
+
+[ansible]
+role_arn = arn:aws:iam::886436937679:role/OrganizationAccountAccessRole
+region = us-east-2
+color = 1ea79b
+
+[coffeeholding]
+role_arn = arn:aws:iam::897722662130:role/OrganizationAccountAccessRole
+region = us-east-2
+color = b62d52
+
+[safeguardpay]
+role_arn = arn:aws:iam::688567271653:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 3ff899
+
+[tristancapital]
+role_arn = arn:aws:iam::897729110805:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 408554
+
+[s4cptg]
+role_arn = arn:aws:iam::774305603403:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = 493180
+
+[synthomer-networking]
+role_arn = arn:aws:iam::971422709368:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = fefb00
+
+[synthomer]
+role_arn = arn:aws:iam::476114110700:role/OrganizationAccountAccessRole
+region = eu-west-2
+color = ff9200
